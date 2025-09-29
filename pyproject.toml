@@ -1,0 +1,10 @@
+[project]
+name = "werewolves"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agentscope>=1.0.4",
+    "dotenv>=0.9.9",
+]
